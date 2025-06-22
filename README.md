@@ -73,7 +73,7 @@ The Random Forest model was evaluated on both training and testing data. Here's 
 
 ## 👤 Author
 
-*Amal roy*  
+*Amal Roy*  
 📧 amal.roy2100@gmail.com](mailto:abdulrasheedj06@gmail.com)  
 🔗 [GitHub](https://github.com/amalroy2003) | [LinkedIn](www.linkedin.com/in/amal-roy-e)
 ---
